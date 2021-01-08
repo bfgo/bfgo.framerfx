@@ -1,0 +1,29 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "7da73c5d-1ad3-4849-b01c-2c1f95bdeaed"
+	},
+	"author": "Juan BFGO",
+	"dependencies": {
+		"@framer/benjamin.animator": "^1.4.0",
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/djfumberger.mockmatic": "^1.18.0",
+		"@framer/framer.base": "^1.1.0",
+		"@framer/framer.default": "^1.77.0",
+		"@framer/kasimir.iphone-and-ipad-kit": "^1.10.0",
+		"@framer/lada.simple-avatars-wip": "^1.3.0",
+		"@framer/material-ui.material-ui": "^1.1.0",
+		"@framer/perrysmotors.sticky-headers": "^2.7.0",
+		"@framer/ruucm-h.enhanced-lottie": "^1.51.0",
+		"@framer/slucas_c4.custom-button-with-icon-and-gradient-options": "^1.18.0",
+		"@framer/tishogeorgiev.switch": "^1.28.0"
+	}
+}
